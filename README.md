@@ -51,12 +51,12 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=XielQs&show_icons=true&theme=onedark"
+      srcset="https://github-readme-stats.vercel.app/api?username=ShannaSalvia&show_icons=true&theme=onedark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=XielQs&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=ShannaSalvia&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=XielQs&show_icons=true" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=ShannaSalvia&show_icons=true" />
   </picture>
