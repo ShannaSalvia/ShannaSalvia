@@ -1,5 +1,22 @@
 <h1 align="center">Hi! I'm Shanna 👋</h1>
 
+```py
+┌──(xielq@archlinux)-[~]
+└─$ cat xielq.py # I luv cats btw :3
+
+  class XielQ:
+  
+    def  __social__(self):
+     self.github    = "https://github.com/ShannaSalvia/"
+     self.discord   = "ShannaSalvia"
+     self.company   = "DevTimers"
+     self.job       = "Backend Developer"
+     self.links     = ["google.com", "microsoft.com", "ibm.com", "dell.com", "amazon.com", "facebook.com"]
+  
+┌──(ShannaSalvia@archlinux)-[~]
+└─$ echo "Love y'all <3"
+```
+
 <hr>
 <h3 align="center">🔭  I’m currently working with</h4>
 <br>
@@ -29,3 +46,17 @@
   <img src="https://img.shields.io/badge/Postman%20-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+<h2 align="center">🏆 Stats</h3>
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=XielQs&show_icons=true&theme=onedark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=XielQs&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=XielQs&show_icons=true" />
+  </picture>
