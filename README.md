@@ -2,7 +2,7 @@
 
 ```py
 ┌──(xielq@archlinux)-[~]
-└─$ cat shannasalvia.py # I love cats btw :3
+└─$ cat shannasalvia.py
 
   class ShannaSalvia:
   
