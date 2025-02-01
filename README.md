@@ -29,32 +29,3 @@
   <img src="https://img.shields.io/badge/Postman%20-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-<h2 align="center">🏆 Stats</h3>
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=XielQs&show_icons=true&theme=onedark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=XielQs&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=XielQs&show_icons=true" />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=XielQs&theme=onedark&layout=compact&langs_count=8&card_width=320"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=XielQs&layout=compact&langs_count=8&card_width=320"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XielQs&layout=compact&langs_count=8&card_width=320" />
-  </picture>
-</p>
-
-<h2 align="center">👁️ Views</h3>
-<p align="center"><img src="https://count.getloli.com/get/@gamerboytr?theme=rule34" /></p>
