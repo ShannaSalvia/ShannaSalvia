@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Shanna 👋</h1>
 
 ```py
-┌──(xielq@archlinux)-[~]
+┌──(ShannaSalvia@archlinux)-[~]
 └─$ cat shannasalvia.py
 
   class ShannaSalvia:
