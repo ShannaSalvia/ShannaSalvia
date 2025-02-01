@@ -4,7 +4,7 @@
 ┌──(xielq@archlinux)-[~]
 └─$ cat xielq.py # I luv cats btw :3
 
-  class XielQ:
+  class ShannaSalvia:
   
     def  __social__(self):
      self.github    = "https://github.com/ShannaSalvia/"
