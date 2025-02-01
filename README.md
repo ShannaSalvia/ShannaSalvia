@@ -9,7 +9,7 @@
     def  __social__(self):
      self.github    = "https://github.com/ShannaSalvia/"
      self.discord   = "ShannaSalvia"
-     self.company   = "DevTimers"
+     self.company   = "Code - Eat - Sleep - Repeat"
      self.job       = "Backend Developer"
      self.links     = ["google.com", "microsoft.com", "ibm.com", "dell.com", "amazon.com", "facebook.com"]
   
