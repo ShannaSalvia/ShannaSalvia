@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi! I'm Shannan 👋</h1>
 
-<!--
-**ShannaSalvia/ShannaSalvia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
+<h3 align="center">🔭  I’m currently working with</h4>
+<br>
+<p align='center'>
+  <img src="https://img.shields.io/badge/NodeJS%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://shields.io/badge/JavaScript%20-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://shields.io/badge/TypeScript%20-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <br/>
+  <img src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron%20-%2347848F.svg?&style=for-the-badge&logo=electron&logoColor=white" /> <br/>
+  <img src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java 8%20-%23E34f26.svg?&style=for-the-badge&logo=java&logoColor=white" /> <br/>
+  <img src="https://img.shields.io/badge/SQLite%20-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL%20-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Puppeteer%20-%2340B5A4.svg?&style=for-the-badge&logo=puppeteer&logoColor=white" /> <br/>
+</p>
 
-Here are some ideas to get you started:
+<hr>
+<h3 align="center">👨‍💻 I’m currently using</h4>
+<br>
+<p align='center'>
+  <img src="https://img.shields.io/badge/Windows_10-%230078D6?style=for-the-badge&logo=windows-10&logoColor=white" />
+  <img src="https://img.shields.io/badge/EndeavourOS-%237F7FFF?style=for-the-badge&logo=endeavouros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <br/>
+  <img src="https://img.shields.io/badge/BurpSuite%20-%23FF6633.svg?&style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman%20-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">🏆 Stats</h3>
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=XielQs&show_icons=true&theme=onedark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=XielQs&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=XielQs&show_icons=true" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=XielQs&theme=onedark&layout=compact&langs_count=8&card_width=320"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=XielQs&layout=compact&langs_count=8&card_width=320"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XielQs&layout=compact&langs_count=8&card_width=320" />
+  </picture>
+</p>
+
+<h2 align="center">👁️ Views</h3>
+<p align="center"><img src="https://count.getloli.com/get/@gamerboytr?theme=rule34" /></p>
