@@ -1,5 +1,3 @@
-<h1 align="center">Hi! I'm Shanna 👋</h1>
-
 ```py
 ┌──(ShannaSalvia@archlinux)-[~]
 └─$ cat shannasalvia.py
